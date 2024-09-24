@@ -7,7 +7,7 @@ A preprint is available here:
 https://blogs.lshtm.ac.uk/iantimaeus/files/2024/05/MasquelierTimaeusOrphanhoodPreprint.pdf
 
 This repository contains the following folders:
-- Code: R Code to recreate the set of microsimulations. Users interested in the microsimulations need a local installation of SOCSIM, which is available here: https://lab.demog.berkeley.edu/socsim/. It can also be revised to use the rsocsim package in R, available here: https://github.com/MPIDR/rsocsim.
+- R Code for microsimulations: R Code to recreate the set of microsimulations. Users interested in the microsimulations need a local installation of SOCSIM, which is available here: https://lab.demog.berkeley.edu/socsim/. It can also be revised to use the rsocsim package in R, available here: https://github.com/MPIDR/rsocsim.
 - Data: Mortality and fertility standards needed to format the demographic rates to inform the microsimulations. 
 - Results: CSV data files with estimates of nq25 from the different orphanhood approaches.
 - Workbook: An Excel workbook to facilitate the calculations for practical applications based on tabulated data.
